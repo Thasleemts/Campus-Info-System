@@ -1,0 +1,45 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="registrationmaster.master.cs" Inherits="campusinfosystem.registrationmaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="Design/css/Styles.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+     <div class="logo"></div>
+    <div class="menu">
+
+     <div style=" height:50px; float:left; width:150px;" ></div>
+   <div class="home"><a href="LoginForm.aspx">Home</a></div>
+      <div class="submenu">Register</div>
+         <div class="submenu">Login</div>
+            <div class="submenu">About</div>
+    </div>
+    <div style="height:800px; width:800px; margin-top:20px; margin-left:100px; float:left;">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    <div style="height:80px; width:100%; background-color:Black; float:left; color:White;">
+<div class="social">
+<img src="Design/images/fb.png" />
+</div>
+<div class="social">
+<img src="Design/images/g+.png"/>
+</div>
+<div class="social">
+<img src="Design/images/tw.png"/>
+</div>
+<div class="social">
+<img src="Design/images/pinterest.png"/>
+</div>
+<div style="float:right; margin-right:200px; margin-top:30px;">Copy Right @ All Reserved</div>
+</div>
+    </form>
+</body>
+</html>

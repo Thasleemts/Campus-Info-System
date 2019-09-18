@@ -1,0 +1,168 @@
+E:\sreeJith\RoyAl\campusinfosystem\campusinfosystem\bin\campusinfosystem.dll
+E:\sreeJith\RoyAl\campusinfosystem\campusinfosystem\bin\campusinfosystem.pdb
+E:\sreeJith\RoyAl\campusinfosystem\campusinfosystem\obj\Debug\ResolveAssemblyReference.cache
+E:\sreeJith\RoyAl\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.dll
+E:\sreeJith\RoyAl\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.pdb
+Z:\Shasna\Royal\thasleem\9\campusinfosystem\campusinfosystem\obj\Debug\ResolveAssemblyReference.cache
+Z:\Shasna\Royal\thasleem\9\campusinfosystem\campusinfosystem\bin\campusinfosystem.dll
+Z:\Shasna\Royal\thasleem\9\campusinfosystem\campusinfosystem\bin\campusinfosystem.pdb
+Z:\Shasna\Royal\thasleem\9\campusinfosystem\campusinfosystem\bin\campusinfosystem.controller.dll
+Z:\Shasna\Royal\thasleem\9\campusinfosystem\campusinfosystem\bin\campusinfosystem.model.dll
+Z:\Shasna\Royal\thasleem\9\campusinfosystem\campusinfosystem\bin\campusinfosystem.controller.pdb
+Z:\Shasna\Royal\thasleem\9\campusinfosystem\campusinfosystem\bin\campusinfosystem.model.pdb
+Z:\Shasna\Royal\thasleem\9\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.dll
+Z:\Shasna\Royal\thasleem\9\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.pdb
+Z:\Shasna\Royal\thasleem\14\campusinfosystem\campusinfosystem\bin\campusinfosystem.dll
+Z:\Shasna\Royal\thasleem\14\campusinfosystem\campusinfosystem\bin\campusinfosystem.pdb
+Z:\Shasna\Royal\thasleem\14\campusinfosystem\campusinfosystem\bin\campusinfosystem.controller.dll
+Z:\Shasna\Royal\thasleem\14\campusinfosystem\campusinfosystem\bin\campusinfosystem.model.dll
+Z:\Shasna\Royal\thasleem\14\campusinfosystem\campusinfosystem\bin\campusinfosystem.controller.pdb
+Z:\Shasna\Royal\thasleem\14\campusinfosystem\campusinfosystem\bin\campusinfosystem.model.pdb
+Z:\Shasna\Royal\thasleem\14\campusinfosystem\campusinfosystem\obj\Debug\ResolveAssemblyReference.cache
+Z:\Shasna\Royal\thasleem\14\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.dll
+Z:\Shasna\Royal\thasleem\14\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.pdb
+E:\Royal\Thasleem feb 25\campusinfosystem\campusinfosystem\bin\campusinfosystem.dll
+E:\Royal\Thasleem feb 25\campusinfosystem\campusinfosystem\bin\campusinfosystem.pdb
+E:\Royal\Thasleem feb 25\campusinfosystem\campusinfosystem\bin\campusinfosystem.controller.dll
+E:\Royal\Thasleem feb 25\campusinfosystem\campusinfosystem\bin\campusinfosystem.model.dll
+E:\Royal\Thasleem feb 25\campusinfosystem\campusinfosystem\bin\campusinfosystem.controller.pdb
+E:\Royal\Thasleem feb 25\campusinfosystem\campusinfosystem\bin\campusinfosystem.model.pdb
+E:\Royal\Thasleem feb 25\campusinfosystem\campusinfosystem\obj\Debug\ResolveAssemblyReference.cache
+E:\Royal\Thasleem feb 25\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.dll
+E:\Royal\Thasleem feb 25\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.pdb
+E:\shasna\Royal\Thasleem\campusinfosystem\campusinfosystem\obj\Debug\ResolveAssemblyReference.cache
+E:\shasna\Royal\Thasleem\campusinfosystem\campusinfosystem\bin\campusinfosystem.dll
+E:\shasna\Royal\Thasleem\campusinfosystem\campusinfosystem\bin\campusinfosystem.pdb
+E:\shasna\Royal\Thasleem\campusinfosystem\campusinfosystem\bin\campusinfosystem.controller.dll
+E:\shasna\Royal\Thasleem\campusinfosystem\campusinfosystem\bin\campusinfosystem.model.dll
+E:\shasna\Royal\Thasleem\campusinfosystem\campusinfosystem\bin\campusinfosystem.controller.pdb
+E:\shasna\Royal\Thasleem\campusinfosystem\campusinfosystem\bin\campusinfosystem.model.pdb
+E:\shasna\Royal\Thasleem\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.dll
+E:\shasna\Royal\Thasleem\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.pdb
+E:\shasna\campusinfosystem\campusinfosystem\obj\Debug\ResolveAssemblyReference.cache
+E:\shasna\campusinfosystem\campusinfosystem\bin\campusinfosystem.dll
+E:\shasna\campusinfosystem\campusinfosystem\bin\campusinfosystem.pdb
+E:\shasna\campusinfosystem\campusinfosystem\bin\campusinfosystem.controller.dll
+E:\shasna\campusinfosystem\campusinfosystem\bin\campusinfosystem.model.dll
+E:\shasna\campusinfosystem\campusinfosystem\bin\campusinfosystem.controller.pdb
+E:\shasna\campusinfosystem\campusinfosystem\bin\campusinfosystem.model.pdb
+E:\shasna\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.dll
+E:\shasna\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.pdb
+D:\Shasna\OnGoingProjects\Royal\campusinfosystem\campusinfosystem\obj\Debug\ResolveAssemblyReference.cache
+D:\Shasna\OnGoingProjects\Royal\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.dll
+D:\Shasna\OnGoingProjects\Royal\campusinfosystem\campusinfosystem\bin\campusinfosystem.dll
+D:\Shasna\OnGoingProjects\Royal\campusinfosystem\campusinfosystem\bin\campusinfosystem.pdb
+D:\Shasna\OnGoingProjects\Royal\campusinfosystem\campusinfosystem\bin\campusinfosystem.controller.dll
+D:\Shasna\OnGoingProjects\Royal\campusinfosystem\campusinfosystem\bin\campusinfosystem.model.dll
+D:\Shasna\OnGoingProjects\Royal\campusinfosystem\campusinfosystem\bin\campusinfosystem.controller.pdb
+D:\Shasna\OnGoingProjects\Royal\campusinfosystem\campusinfosystem\bin\campusinfosystem.model.pdb
+D:\Shasna\OnGoingProjects\Royal\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.pdb
+E:\shazna\royal\New folder\campusinfosystem\campusinfosystem\bin\campusinfosystem.dll
+E:\shazna\royal\New folder\campusinfosystem\campusinfosystem\bin\campusinfosystem.pdb
+E:\shazna\royal\New folder\campusinfosystem\campusinfosystem\bin\campusinfosystem.controller.dll
+E:\shazna\royal\New folder\campusinfosystem\campusinfosystem\bin\campusinfosystem.model.dll
+E:\shazna\royal\New folder\campusinfosystem\campusinfosystem\bin\campusinfosystem.controller.pdb
+E:\shazna\royal\New folder\campusinfosystem\campusinfosystem\bin\campusinfosystem.model.pdb
+E:\shazna\royal\New folder\campusinfosystem\campusinfosystem\obj\Debug\ResolveAssemblyReference.cache
+E:\shazna\royal\New folder\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.dll
+E:\shazna\royal\New folder\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.pdb
+Z:\Shasna\Royal\Thasleem\11\campusinfosystem\campusinfosystem\bin\campusinfosystem.dll
+Z:\Shasna\Royal\Thasleem\11\campusinfosystem\campusinfosystem\bin\campusinfosystem.pdb
+Z:\Shasna\Royal\Thasleem\11\campusinfosystem\campusinfosystem\bin\campusinfosystem.controller.dll
+Z:\Shasna\Royal\Thasleem\11\campusinfosystem\campusinfosystem\bin\campusinfosystem.model.dll
+Z:\Shasna\Royal\Thasleem\11\campusinfosystem\campusinfosystem\bin\campusinfosystem.controller.pdb
+Z:\Shasna\Royal\Thasleem\11\campusinfosystem\campusinfosystem\bin\campusinfosystem.model.pdb
+Z:\Shasna\Royal\Thasleem\11\campusinfosystem\campusinfosystem\obj\Debug\ResolveAssemblyReference.cache
+Z:\Shasna\Royal\Thasleem\11\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.dll
+Z:\Shasna\Royal\Thasleem\11\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.pdb
+E:\shasna\Royal\Thasli\campusinfosystem\campusinfosystem\bin\campusinfosystem.dll
+E:\shasna\Royal\Thasli\campusinfosystem\campusinfosystem\bin\campusinfosystem.pdb
+E:\shasna\Royal\Thasli\campusinfosystem\campusinfosystem\bin\campusinfosystem.controller.dll
+E:\shasna\Royal\Thasli\campusinfosystem\campusinfosystem\bin\campusinfosystem.model.dll
+E:\shasna\Royal\Thasli\campusinfosystem\campusinfosystem\bin\campusinfosystem.controller.pdb
+E:\shasna\Royal\Thasli\campusinfosystem\campusinfosystem\bin\campusinfosystem.model.pdb
+E:\shasna\Royal\Thasli\campusinfosystem\campusinfosystem\obj\Debug\ResolveAssemblyReference.cache
+E:\shasna\Royal\Thasli\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.dll
+E:\shasna\Royal\Thasli\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.pdb
+D:\Shasna\OnGoingProjects\Royal New\campusinfosystem\campusinfosystem\bin\campusinfosystem.dll
+D:\Shasna\OnGoingProjects\Royal New\campusinfosystem\campusinfosystem\bin\campusinfosystem.pdb
+D:\Shasna\OnGoingProjects\Royal New\campusinfosystem\campusinfosystem\bin\campusinfosystem.controller.dll
+D:\Shasna\OnGoingProjects\Royal New\campusinfosystem\campusinfosystem\bin\campusinfosystem.model.dll
+D:\Shasna\OnGoingProjects\Royal New\campusinfosystem\campusinfosystem\bin\campusinfosystem.controller.pdb
+D:\Shasna\OnGoingProjects\Royal New\campusinfosystem\campusinfosystem\bin\campusinfosystem.model.pdb
+D:\Shasna\OnGoingProjects\Royal New\campusinfosystem\campusinfosystem\obj\Debug\ResolveAssemblyReference.cache
+D:\Shasna\OnGoingProjects\Royal New\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.dll
+D:\Shasna\OnGoingProjects\Royal New\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.pdb
+Z:\Shasna\On Going Projects\16-3-2015\Royal New\campusinfosystem\campusinfosystem\bin\campusinfosystem.dll
+Z:\Shasna\On Going Projects\16-3-2015\Royal New\campusinfosystem\campusinfosystem\bin\campusinfosystem.pdb
+Z:\Shasna\On Going Projects\16-3-2015\Royal New\campusinfosystem\campusinfosystem\bin\campusinfosystem.controller.dll
+Z:\Shasna\On Going Projects\16-3-2015\Royal New\campusinfosystem\campusinfosystem\bin\campusinfosystem.model.dll
+Z:\Shasna\On Going Projects\16-3-2015\Royal New\campusinfosystem\campusinfosystem\bin\campusinfosystem.controller.pdb
+Z:\Shasna\On Going Projects\16-3-2015\Royal New\campusinfosystem\campusinfosystem\bin\campusinfosystem.model.pdb
+Z:\Shasna\On Going Projects\16-3-2015\Royal New\campusinfosystem\campusinfosystem\obj\Debug\ResolveAssemblyReference.cache
+Z:\Shasna\On Going Projects\16-3-2015\Royal New\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.dll
+Z:\Shasna\On Going Projects\16-3-2015\Royal New\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.pdb
+E:\shasna\Royal\campusinfosystem\campusinfosystem\obj\Debug\ResolveAssemblyReference.cache
+E:\shasna\Royal\campusinfosystem\campusinfosystem\bin\campusinfosystem.dll
+E:\shasna\Royal\campusinfosystem\campusinfosystem\bin\campusinfosystem.pdb
+E:\shasna\Royal\campusinfosystem\campusinfosystem\bin\campusinfosystem.controller.dll
+E:\shasna\Royal\campusinfosystem\campusinfosystem\bin\campusinfosystem.model.dll
+E:\shasna\Royal\campusinfosystem\campusinfosystem\bin\campusinfosystem.controller.pdb
+E:\shasna\Royal\campusinfosystem\campusinfosystem\bin\campusinfosystem.model.pdb
+E:\shasna\Royal\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.dll
+E:\shasna\Royal\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.pdb
+E:\shazna\royal\campusinfosystem\campusinfosystem\bin\campusinfosystem.dll
+E:\shazna\royal\campusinfosystem\campusinfosystem\bin\campusinfosystem.pdb
+E:\shazna\royal\campusinfosystem\campusinfosystem\bin\campusinfosystem.controller.dll
+E:\shazna\royal\campusinfosystem\campusinfosystem\bin\campusinfosystem.model.dll
+E:\shazna\royal\campusinfosystem\campusinfosystem\bin\campusinfosystem.controller.pdb
+E:\shazna\royal\campusinfosystem\campusinfosystem\bin\campusinfosystem.model.pdb
+E:\shazna\royal\campusinfosystem\campusinfosystem\obj\Debug\ResolveAssemblyReference.cache
+E:\shazna\royal\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.dll
+E:\shazna\royal\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.pdb
+\\SERVER\Students 2011\Shasna\Royal\Thasleem\campusinfosystem\campusinfosystem\bin\campusinfosystem.dll
+\\SERVER\Students 2011\Shasna\Royal\Thasleem\campusinfosystem\campusinfosystem\bin\campusinfosystem.pdb
+\\SERVER\Students 2011\Shasna\Royal\Thasleem\campusinfosystem\campusinfosystem\bin\campusinfosystem.controller.dll
+\\SERVER\Students 2011\Shasna\Royal\Thasleem\campusinfosystem\campusinfosystem\bin\campusinfosystem.model.dll
+\\SERVER\Students 2011\Shasna\Royal\Thasleem\campusinfosystem\campusinfosystem\bin\campusinfosystem.controller.pdb
+\\SERVER\Students 2011\Shasna\Royal\Thasleem\campusinfosystem\campusinfosystem\bin\campusinfosystem.model.pdb
+\\SERVER\Students 2011\Shasna\Royal\Thasleem\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.csprojResolveAssemblyReference.cache
+\\SERVER\Students 2011\Shasna\Royal\Thasleem\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.dll
+\\SERVER\Students 2011\Shasna\Royal\Thasleem\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.pdb
+E:\Royal\campusinfosystem\campusinfosystem\obj\Debug\ResolveAssemblyReference.cache
+E:\Royal\campusinfosystem\campusinfosystem\bin\campusinfosystem.dll
+E:\Royal\campusinfosystem\campusinfosystem\bin\campusinfosystem.pdb
+E:\Royal\campusinfosystem\campusinfosystem\bin\campusinfosystem.controller.dll
+E:\Royal\campusinfosystem\campusinfosystem\bin\campusinfosystem.model.dll
+E:\Royal\campusinfosystem\campusinfosystem\bin\campusinfosystem.controller.pdb
+E:\Royal\campusinfosystem\campusinfosystem\bin\campusinfosystem.model.pdb
+E:\Royal\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.dll
+E:\Royal\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.pdb
+E:\pROJ\24\campusinfosystem\campusinfosystem\bin\campusinfosystem.dll
+E:\pROJ\24\campusinfosystem\campusinfosystem\bin\campusinfosystem.pdb
+E:\pROJ\24\campusinfosystem\campusinfosystem\bin\campusinfosystem.controller.dll
+E:\pROJ\24\campusinfosystem\campusinfosystem\bin\campusinfosystem.model.dll
+E:\pROJ\24\campusinfosystem\campusinfosystem\bin\campusinfosystem.controller.pdb
+E:\pROJ\24\campusinfosystem\campusinfosystem\bin\campusinfosystem.model.pdb
+E:\pROJ\24\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.csprojResolveAssemblyReference.cache
+E:\pROJ\24\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.dll
+E:\pROJ\24\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.pdb
+D:\pROJ\campusinfosystem\campusinfosystem\bin\campusinfosystem.dll
+D:\pROJ\campusinfosystem\campusinfosystem\bin\campusinfosystem.pdb
+D:\pROJ\campusinfosystem\campusinfosystem\bin\campusinfosystem.controller.dll
+D:\pROJ\campusinfosystem\campusinfosystem\bin\campusinfosystem.model.dll
+D:\pROJ\campusinfosystem\campusinfosystem\bin\campusinfosystem.controller.pdb
+D:\pROJ\campusinfosystem\campusinfosystem\bin\campusinfosystem.model.pdb
+D:\pROJ\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.csprojResolveAssemblyReference.cache
+D:\pROJ\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.dll
+D:\pROJ\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.pdb
+D:\DotNet\Projects\campusinfosystem\campusinfosystem\bin\campusinfosystem.dll.config
+D:\DotNet\Projects\campusinfosystem\campusinfosystem\bin\campusinfosystem.dll
+D:\DotNet\Projects\campusinfosystem\campusinfosystem\bin\campusinfosystem.pdb
+D:\DotNet\Projects\campusinfosystem\campusinfosystem\bin\campusinfosystem.controller.dll
+D:\DotNet\Projects\campusinfosystem\campusinfosystem\bin\campusinfosystem.model.dll
+D:\DotNet\Projects\campusinfosystem\campusinfosystem\bin\campusinfosystem.controller.pdb
+D:\DotNet\Projects\campusinfosystem\campusinfosystem\bin\campusinfosystem.model.pdb
+D:\DotNet\Projects\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.csprojResolveAssemblyReference.cache
+D:\DotNet\Projects\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.dll
+D:\DotNet\Projects\campusinfosystem\campusinfosystem\obj\Debug\campusinfosystem.pdb

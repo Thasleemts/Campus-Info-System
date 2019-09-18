@@ -1,0 +1,90 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MainMaster.master.cs" Inherits="campusinfosystem.MainMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+      <link href="Design/css/Styles.css" rel="stylesheet" type="text/css" />
+    <script src="Design/js/jquery.js" type="text/javascript"></script>
+    <script src="Design/js/amazingslider.js" type="text/javascript"></script>
+    <script src="Design/js/initslider-1.js" type="text/javascript"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+      <div class="logo"></div>
+    <div class="menu">
+
+     <div style=" height:50px; float:left; width:150px;" ></div>
+   <div class="home">Home</div>
+      <div class="submenu"><a href="stfregistration.aspx">Staffs</a></div>
+         <div class="submenu"><a href="sturegistration.aspx">Students</a></div>
+         <div class="submenu"><a href="alumnregistration.aspx">Alumin</a></div>
+            <div class="submenu">Contact</div>
+                <div class="submenu"><a href="ViewGallery.aspx">Gallery</a></div>
+    </div>
+    <div  class="slider">
+    <!-- Insert to your webpage where you want to display the slider -->
+    <div id="amazingslider-1" style="display:block;position:relative;margin:16px auto 32px;">
+        <ul class="amazingslider-slides" style="display:none;">
+            <li><img src="Design/images/slider_bg.jpg"/>
+          <h2>Online Education</h2>
+            </li>
+            <li><img src="Design/images/slider1.jpg" /></li>
+            <li><img src="Design/images/slider3.jpg" alt="" /></li>
+        </ul>
+        <div class="amazingslider-engine" style="display:none;"></div>
+    </div>
+    <!-- End of body section HTML codes -->
+    
+</div>
+<div style="height:400px; width:100%; background-image: url('/Design/images/bright.png')">
+<div  style="height:300px; width:600px; float:left; margin-top:40px;">
+<div class="icon"> <img src="Design/images/alumni.jpg" />
+<div class="description"><a href="alumnregistration.aspx">Alumni</a></div>
+</div>
+
+<div class="icon"><img src="Design/images/commu.jpg" /> <div class="description">Community</div></div>
+<div class="icon"><img src="Design/images/course.jpg" /><div class="description">Courses</div> </div>
+<div class="icon"><img src="Design/images/discus.jpg" /><div class="description">Chat</div> </div>
+<div class="icon"> <img src="Design/images/notice1.jpg" /><div class="description">News</div></div>
+<div class="icon"><img src="Design/images/blog.jpg" /> <div class="description">Blogs</div></div>
+</div>
+<div style="height:300px; width:400px; float:left;margin-top:30px; margin-left:50px;">
+   <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+</div>
+</div>
+<div style="height:300px; width:100%; float:left; text-align:center; font-size:medium;">
+<div style="height:250px; width:350px; float:left; padding-top:80px; margin-left:10px;">
+    <img src="Design/images/st-4.jpg"   style="width: 449px"/></div>
+<div style="float:left; width:600px; height:150px; margin-left:100px; margin-top:30px;"><h1>About Our Site</h1>
+<p class="style1">This is an online web portal system. This website, which will be developed for any college helps for the admission process, information, notifications, communication, sending greetings and much more.
+ All the other information about the college will be included in this website.This project contains online messaging and communication facility which helps to keep in touch with every member.</p></div>
+
+
+</div>
+<div style="height:80px; width:100%; background-color:Black; float:left; color:White;">
+<div class="social">
+<img src="Design/images/fb.png" />
+</div>
+<div class="social">
+<img src="Design/images/g+.png"/>
+</div>
+<div class="social">
+<img src="Design/images/tw.png"/>
+</div>
+<div class="social">
+<img src="Design/images/pinterest.png"/>
+</div>
+<div style="float:right; margin-right:200px; margin-top:30px;">Copy Right @ All Reserved</div>
+</div>
+    <div>
+     
+    </div>
+    </form>
+</body>
+</html>

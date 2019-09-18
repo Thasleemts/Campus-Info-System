@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Web Developer Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "campusinfosystem", "campusinfosystem\campusinfosystem.csproj", "{1DA69A2F-98D2-41CD-A63B-6870F7774EDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "campusinfosystem.model", "campusinfosystem.model\campusinfosystem.model.csproj", "{F71CB90C-C1C3-4D70-95EC-F975ED24CC33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "campusinfosystem.controller", "campusinfosystem.controller\campusinfosystem.controller.csproj", "{B8FF74CC-FC3A-4546-BC44-60FD394B0EC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DA69A2F-98D2-41CD-A63B-6870F7774EDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DA69A2F-98D2-41CD-A63B-6870F7774EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DA69A2F-98D2-41CD-A63B-6870F7774EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DA69A2F-98D2-41CD-A63B-6870F7774EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F71CB90C-C1C3-4D70-95EC-F975ED24CC33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F71CB90C-C1C3-4D70-95EC-F975ED24CC33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F71CB90C-C1C3-4D70-95EC-F975ED24CC33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F71CB90C-C1C3-4D70-95EC-F975ED24CC33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8FF74CC-FC3A-4546-BC44-60FD394B0EC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8FF74CC-FC3A-4546-BC44-60FD394B0EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8FF74CC-FC3A-4546-BC44-60FD394B0EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8FF74CC-FC3A-4546-BC44-60FD394B0EC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
